@@ -19,8 +19,7 @@ This system add support for:
 Nifty Agent locator, showing agents you can access and how many jumps out they are, also quick waypoint and information of them.
 
 
-![Agent Locator](https://lh3.googleusercontent.com/-wwIyIuYZLx8/Vr71x4tjViI/AAAAAAAABSM/GBTmgbeGKC8/s144-Ic42/agent.locator.png)
-
+Some screenshots on the CMS in work, can be found on the Wiki here, but for all screenies, refer to my website.
 
 Big warning tho, as i am a "learn as i go", my code is at best, cluttery, there may be wrong approaches to things, but they do work.
 
